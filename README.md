@@ -1,1 +1,1 @@
-# YouTube-Projects
+# AI-Projects
